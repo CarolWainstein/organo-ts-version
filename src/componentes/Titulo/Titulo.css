@@ -1,0 +1,20 @@
+.titulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #6278F7;
+}
+
+.titulo h1 {
+    font-size: 32px;
+
+    padding-bottom: 8px;
+}
+
+.linha {
+    text-align: center;
+    width: 8%;
+    border-bottom: 4px solid;
+    margin-bottom: 2em;
+}

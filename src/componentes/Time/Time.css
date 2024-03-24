@@ -1,0 +1,38 @@
+.time {
+    text-align: center;
+    padding: 32px;
+    background-image: url(../../../public/imagens/fundo.png);
+    position: relative;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.time h3 {
+    font-size: 28px;
+    margin-bottom: 0;
+}
+
+.linha2 {
+    text-align: center;
+    width: 5%;
+    border-bottom: 4px solid;
+    margin-bottom: 2em;
+    margin-top: 1em;
+}
+
+.time .colaboradores {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+.input-cor {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}

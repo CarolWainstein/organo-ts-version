@@ -1,0 +1,19 @@
+.rodape {
+    background-position: 100%;
+    background-color: #6278F7;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+}
+
+.rodape__links {
+    display: flex;
+    gap: 1em;
+    list-style: none;
+}
+
+.rodape__paragrafo {
+    margin-right: 1em;
+}
